@@ -4,5 +4,14 @@
 ## 解决问题
 - 测试时准备的数据
 
+## 安装
+```
+npm i irajs-factory
+```
+
+## TODO
+- [ ] 添加例子
+- [ ] 添加测试
+
 ## LISENSE
 MIT
