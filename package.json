@@ -1,0 +1,27 @@
+{
+  "name": "irajs-factory",
+  "version": "0.1.0",
+  "description": "数据模拟工厂(集成 factory-girl, faker, mockjs 等工具）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gzira/irajs-factory.git"
+  },
+  "keywords": [
+    "factory-girl",
+    "faker"
+  ],
+  "author": "zysam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gzira/irajs-factory/issues"
+  },
+  "homepage": "https://github.com/gzira/irajs-factory#readme",
+  "dependencies": {
+    "factory-girl": "^5.0.2",
+    "faker": "^4.1.0"
+  }
+}
